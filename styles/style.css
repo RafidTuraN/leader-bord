@@ -18,9 +18,15 @@ main{
     width:870px;
     padding: 30px;
 }
- 
+
+hr{
+    border: 1px solid #D1D1D1;
+}
 
 /* top players style  */
+.top-palyers{
+    margin-bottom: 30px;
+}
 .container-title{
     color: #562EFF;
     font-size: 24px;
